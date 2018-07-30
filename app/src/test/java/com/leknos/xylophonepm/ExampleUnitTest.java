@@ -1,4 +1,4 @@
-package com.londonappbrewery.xylophonepm;
+package com.leknos.xylophonepm;
 
 import org.junit.Test;
 
